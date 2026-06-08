@@ -1,0 +1,4 @@
+.venv
+./data/replays
+.vscode
+__pycache__/
