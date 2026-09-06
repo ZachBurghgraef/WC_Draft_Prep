@@ -2,3 +2,4 @@
 ./data/replays
 .vscode
 __pycache__/
+*.db
